@@ -1,0 +1,5 @@
+{
+  "name": "Real-time Session Sync (WebSocket)",
+  "description": "A real-time therapy session synchronization platform connecting patients and therapists with live messaging, presence detection, and AI-powered sentiment analysis.",
+  "requestFramePermissions": []
+}
